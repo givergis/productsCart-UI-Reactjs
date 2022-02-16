@@ -1,0 +1,18 @@
+.productList{
+    margin-top: 40px; 
+    width: 250px;
+    height: 300px;
+    border-radius: 5px;
+    border: 1px solid rgb(176, 231, 176);
+    display: inline-block;
+    margin-left: 30px;
+    padding-left: 40px;
+    padding-top: 10px;
+    color:rgb(15, 139, 15) ;
+
+}
+
+.productList button{
+    margin-top:5px;
+    margin-left:15px;
+}

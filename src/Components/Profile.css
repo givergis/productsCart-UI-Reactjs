@@ -1,0 +1,25 @@
+.profileMain{
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    display: absolute;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.formArea{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.formContent{
+    width: 550px;
+    height: 400px;
+    float: left;
+    margin-left: 200px;
+    background-color:  rgb(176, 231, 176);
+    border-radius: 5px;
+    border: 1px solid rgb(176, 231, 176);
+    padding-top: 5px;
+    padding-right: 10px;
+}

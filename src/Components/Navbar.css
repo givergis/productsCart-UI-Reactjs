@@ -1,0 +1,16 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(176, 231, 176);
+    position: fixed;
+    top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ 
+  }
+
+li{
+    color:rgb(220, 241, 245);
+    display: inline-block;
+    margin: 10px;
+}

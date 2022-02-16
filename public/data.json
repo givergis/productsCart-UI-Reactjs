@@ -1,0 +1,60 @@
+[
+    {   "id":1,
+        "itemname":"The Complete C",
+        "isAvail":true,
+        "url":"https://images-na.ssl-images-amazon.com/images/I/71mqdKj2O9L.jpg",
+        "category":"Books"
+    },
+
+    {   "id":2,
+        "itemname":"Puma T-shirt",
+        "isAvail":true,
+        "url":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/518946/03/fv/fnd/IND/fmt/png",
+        "category":"Cloths"
+    },
+    {   "id":3,
+        "itemname":"Networks",
+        "isAvail":false,
+        "url":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347462821l/166190.jpg",
+        "category":"Books"
+    },
+    {   "id":4,
+        "itemname":"Bulb",
+        "isAvail":false,
+        "url":"https://5.imimg.com/data5/SM/HL/MY-2/12w-cfl-bulb-500x500.jpg",
+        "category":"Electronics"
+    },
+    {   "id":5,
+        "itemname":"Polo T-shirt",
+        "isAvail":true,
+        "url":"https://www.mydesignation.com/wp-content/uploads/2020/02/petrol-blue-polo-tshirt-image-mydesignation-.jpg",
+        "category":"Cloths"
+    },
+    {   "id":6,
+        "itemname":"Java Pro",
+        "isAvail":true,
+        "url":"https://5.imimg.com/data5/XX/YM/MY-4078569/java-programming-book-500x500.png",
+        "category":"Books"
+    },
+    {   "id":7,
+        "itemname":"Nike T-shirt",
+         "isAvail":false,
+         "url":"https://image.shutterstock.com/image-photo/medellin-colombia-february-21-2019-260nw-1320511361.jpg",
+        " category":"Cloths"
+    },
+    {   "id":8,
+        "itemname":"Wall-Fan",
+         "isAvail":true,
+         "url":"http://jvelectric.co.in/stores/image/cache/catalog/polstar%20wall%20fan-450x450.jpg",
+        " category":"Electronics"
+    },
+    {   "id":9,
+        "itemname":"Ironbox",
+        "isAvail":false,
+        "url":"https://rukminim1.flixcart.com/image/416/416/jnyxd3k0/iron/y/f/e/impex-electric-iron-box-ib-18-original-imafagpyf8fhmuxa.jpeg?q=70",
+       " category":"Electronics"
+    }
+]
+   
+  
+   
