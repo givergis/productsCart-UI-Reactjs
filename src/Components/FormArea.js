@@ -1,27 +1,19 @@
-import React,{useState,useEffect,useRef} from 'react';
+import React from 'react';
 import FormContent from './FormContent';
 import { useForm } from "react-hook-form";
-import {useHistory} from 'react-router-dom';
 
 function FormArea(props) {
 let {input,setInput,item,setItem} = props;
  
-    //  const saveData = (event)=>{
-    //     event.preventDefault();
-    //     let newItem = item;
-    //     newItem.push(input);
-    //     setItem(newItem);
-    //     setInput({name:'',email:'',number:'',address:''});
-    //  }
+   
     const { register,handleSubmit, formState: { errors } } = useForm();
-     const onSubmit = (event)=>{
+      const onSubmit = ()=>{
       let newItem = item;
       newItem.push(input);
       setItem(newItem);
       setInput({name:'',email:'',number:'',address:''});
        }
 
-       const history = useHistory(); 
     const onHandleClick =()=>{
       console.log("deleted")
       setItem([]);
